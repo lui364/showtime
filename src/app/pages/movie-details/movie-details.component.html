@@ -1,0 +1,66 @@
+<!--BANNER START-->
+
+
+<section class="containe carousel-item active">
+
+    <div class="row">
+      <div class="col-lg-9">
+
+       
+          <img src="https://image.tmdb.org/t/p/original/{{ movieDetailsResults.backdrop_path }}"  alt="una foto" class="img">
+        
+    <div class="contenido">
+      <h2>{{movieDetailsResults.original_title | uppercase| slice:0:32}}</h2>
+      <p>{{movieDetailsResults.overview | slice:0:200}}</p>
+
+      <div class="buttons">
+        <div class="row">
+          <div class="col-lg-6">
+            <a class="btn btn-primary button" href="https://www.themoviedb.org/video/play?key={{movieVideo}}" target="_blank">
+              <i class="fa-solid fa-play"></i>
+              &nbsp;
+              Reproducir
+            </a>
+          </div>
+
+          <div class="col-lg-6">
+            <button class="btn btn-primary" (click)="agregar()">
+              <i ngClass={{icon}}></i>
+              &nbsp;
+              Mi Lista
+            </button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="card">
+          <div class="card-body">
+            <h3>TOP CAST</h3>
+            <div class="row">
+              <div class="col-lg-6 col" *ngFor="let cast of movieCast">
+                
+                <img src="https://image.tmdb.org/t/p/original/{{ cast.profile_path }}"  alt="">
+                
+                <div class="col-lg-6">
+                  <p>{{cast.name}}</p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+
+<!--BANNER END-->
+
+
+
+
+

@@ -1,0 +1,40 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" [ngStyle]="navbg" style="height: 60px;">
+    <div class="container-fluid">
+      <img src="assets/logo.png" alt="" class="logo" routerLink="">
+       <div class="item">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" routerLink="" style="margin-right: 20px;">Inicio</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/pelicula" style="margin-right: 20px;">Peliculas</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/lista">Mi lista</a>
+              </li>
+          </ul>
+       </div>
+
+
+       <div class="item2">
+        <ul class="navbar-nav ms-auto">
+            <app-search></app-search>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" routerLink="">INFANTIL</a>
+            </li>
+            <li class="nav-item">
+                <span><i class="fa-solid fa-gift"></i></span>
+            </li>
+            <li class="nav-item">
+                <img src="/assets/timbre.png" alt="">
+            </li>
+
+            <li class="nav-item">
+              <img src="assets/john.jpg" class="img">
+          </li>
+          </ul>
+       </div>
+
+    
+      </div>
+  </nav>

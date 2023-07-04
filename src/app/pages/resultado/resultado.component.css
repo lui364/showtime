@@ -1,0 +1,44 @@
+
+.card{
+    background: transparent;
+    margin-top: 6%;
+    position: relative;
+    overflow: hidden;
+}
+.card h3{
+    color: white;
+    margin-bottom: 50px;
+}
+
+.card p{
+    color: white;
+    font-weight: 600;
+}
+
+.card i{
+    font-size: 70px;
+    color: red;
+    background-color: antiquewhite;
+    border-radius: 100%;
+}
+img{
+    width: 200px;
+    height: 300px;
+    transition:0.5s;
+}
+
+.card img:hover{
+    cursor: pointer;
+    filter: brightness(0.4);
+}
+.capa{
+    position: absolute;
+    top: 0;
+    margin-left: 65px;
+    margin-top: 120px;
+    cursor: pointer;
+}
+
+
+
+
