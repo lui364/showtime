@@ -14,9 +14,9 @@ MI LISTA
 
 MAS DETALLES
 
-[![Showtime-Google-Chrome-5-7-2023-1-55-37-p-m-2.png](https://i.postimg.cc/PJLX2Yjk/Showtime-Google-Chrome-5-7-2023-1-58-37-p-m-2.png)](https://postimg.cc/CngpKZ5v)
+[![Showtime-Google-Chrome-5-7-2023-2-12-59-p-m-2.png](https://i.postimg.cc/prXB5Vz7/Showtime-Google-Chrome-5-7-2023-2-12-59-p-m-2.png)](https://postimg.cc/gXQhfWMq)
 
 BUSQUEDA
 
-[![Showtime-Google-Chrome-5-7-2023-1-55-32-p-m-2.png](https://i.postimg.cc/MpZWFCxD/Showtime-Google-Chrome-5-7-2023-1-55-32-p-m-2.png)](https://postimg.cc/XphSZDrG)
+[![Showtime-Google-Chrome-5-7-2023-2-13-19-p-m-2.png](https://i.postimg.cc/zBwdRPML/Showtime-Google-Chrome-5-7-2023-2-13-19-p-m-2.png)](https://postimg.cc/LYXkcvmR)
 
