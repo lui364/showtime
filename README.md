@@ -6,7 +6,7 @@ INICIO
 
 PELICULAS
 
-[![Showtime-Google-Chrome-5-7-2023-1-55-16-p-m-2.png](https://i.postimg.cc/x19CSkGL/Showtime-Google-Chrome-5-7-2023-1-55-16-p-m-2.png)](https://postimg.cc/KRsFP8HY)
+[![Showtime-Google-Chrome-5-7-2023-1-58-37-p-m-2.png](https://i.postimg.cc/PJLX2Yjk/Showtime-Google-Chrome-5-7-2023-1-58-37-p-m-2.png)](https://postimg.cc/CngpKZ5v)
 
 MI LISTA
 
